@@ -1,4 +1,4 @@
-# DS 3500 Final Project: NLP and ML Methods to Predict Stock Price Change from Earnings Call Transcripts
+# NLP and ML Methods to Predict Stock Price Change from Earnings Call Transcripts
 
 ## Contributors: 
 Xinyu Wu, Marco Tortolani, Qi Li, Emily Wang, Kelly Phalen
